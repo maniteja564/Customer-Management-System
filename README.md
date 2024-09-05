@@ -1,8 +1,6 @@
-# Customer-Management-System
-This Project manages customer operations like adding, displaying, and removing customers.
-
 # Customer Management System - Java Project
-Overview
+Overview - This Project manages customer operations like adding, displaying, and removing customers.
+
 The Customer Management System is a simple Java-based application designed to help manage a list of customers. It allows users to add, view, and remove customer details such as name, age, and email. This project demonstrates fundamental Java programming concepts such as Object-Oriented Programming (OOP), data structures (ArrayList), and user input handling via the console.
 
 # Features
